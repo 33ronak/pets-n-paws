@@ -107,3 +107,8 @@ p{
 .carousel-item{
     padding: 7.5% 15%;
 }
+
+/* Pricing */
+.card{
+    text-align: center;
+}
